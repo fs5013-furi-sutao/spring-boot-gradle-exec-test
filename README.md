@@ -415,9 +415,9 @@ Headers:
 Body:
 ``` json
 {
-"id": 333,
-"itemName": "Mr. Yamamoto",
-"price": 777
+    "id": 333,
+    "itemName": "Mr. Yamamoto",
+    "price": 777
 }
 ```
 
